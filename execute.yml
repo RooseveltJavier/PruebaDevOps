@@ -15,5 +15,5 @@ execution:
       method: POST
       url: 127.0.0.1/devops/login.php
       body:
-        fromPort: admin
-        toPort: admin
+        user: admin
+        password: admin
