@@ -15,5 +15,5 @@ execution:
       method: POST
       url: 127.0.0.1/devops/login.php
       body:
-        user: admin
-        password: admin
+        usuario: admin
+        clave: admin
