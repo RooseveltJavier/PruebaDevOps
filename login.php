@@ -88,5 +88,5 @@ if ($login->isUserLoggedIn() == true) {
 
 	<?php
 }
-//Fin de Login con manejo de sesion
+
 
