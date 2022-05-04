@@ -32,7 +32,7 @@
 		    <div class="btn-group pull-right">
 				<a  href="nueva_factura.php" class="btn btn-info"><span class="glyphicon glyphicon-plus" ></span> Nueva Factura</a>
 			</div>
-			<h4><i class='glyphicon glyphicon-search'></i> Busqueda de Facturas</h4>
+			<h4><i class='glyphicon glyphicon-search'></i> Busqueda de Facturas (Notas)</h4>
 		</div>
 			<div class="panel-body">
 				<form class="form-horizontal" role="form" id="datos_cotizacion">
