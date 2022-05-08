@@ -47,7 +47,7 @@
 							
 							<div class="col-md-3">
 								<button type="button" class="btn btn-default" onclick='load(1);'>
-									<span class="glyphicon glyphicon-search" ></span> Econtrar </button>
+									<span class="glyphicon glyphicon-search" ></span> Buscar </button>
 								<span id="loader"></span>
 							</div>
 							
