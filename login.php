@@ -78,7 +78,7 @@ if ($login->isUserLoggedIn() == true) {
                 <span id="reauth-email" class="reauth-email"></span>
                 <input class="form-control" placeholder="Usuario" name="user_name" type="text" value="" autofocus="" required>
                 <input class="form-control" placeholder="Contraseña" name="user_password" type="password" value="" autocomplete="off" required>
-                <button type="submit" class="btn btn-lg btn-success btn-block btn-signin" name="login" id="submit">Ingresar</button>
+                <button type="submit" class="btn btn-lg btn-success btn-block btn-signin" name="login" id="submit">INGRESAR</button>
             </form><!-- /form -->
             
         </div><!-- /card-container -->
