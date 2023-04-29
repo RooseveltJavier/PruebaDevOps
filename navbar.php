@@ -1,4 +1,4 @@
-	<?php echo "test server";
+	<?php echo "Test por modificacion aws";
   /* Connect To Database*/
   require_once ("config/db.php");
   require_once ("config/conexion.php");
