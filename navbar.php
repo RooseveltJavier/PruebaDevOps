@@ -1,4 +1,4 @@
-	<?php echo "Test por modificacion aws";
+	<?php echo "Prueba desde gitbash";
   /* Connect To Database*/
   require_once ("config/db.php");
   require_once ("config/conexion.php");
