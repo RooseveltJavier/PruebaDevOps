@@ -1,4 +1,4 @@
-	<?php
+	<?php echo "first_upload";
   /* Connect To Database*/
   require_once ("config/db.php");
   require_once ("config/conexion.php");
