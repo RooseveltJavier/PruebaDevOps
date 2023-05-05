@@ -1,4 +1,4 @@
-	<?php echo "Prueba desde GIT";
+	<?php echo "Prueba desde GIT numero 2 para confirmar gitbash";
   /* Connect To Database*/
   require_once ("config/db.php");
   require_once ("config/conexion.php");
