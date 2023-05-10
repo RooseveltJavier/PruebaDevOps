@@ -1,4 +1,4 @@
-	<?php echo "Prueba desde GIT rosevelt";
+	<?php echo "Prueba desde dulce";
   /* Connect To Database*/
   require_once ("config/db.php");
   require_once ("config/conexion.php");
